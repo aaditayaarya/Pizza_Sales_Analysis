@@ -26,14 +26,14 @@ The project transforms raw sales data into actionable business intelligence. üç
 
 ## üìÅ **Project Files**
 
-| **File Name**                         | **Description**                         |           
-|-------------------------------------- |-----------------------------------------|
-| `Blue.jpg`                            | Image asset used in visuals (optional)  |
-| `Dashboard Preview.png`               | Snapshot of the final dashboard         |
-| `Dashboard Screenshot.png`            | In-depth view of dashboard sections     |
-| `Super Store Sales Dashboard.pbix`    | Power BI report file                    |
-| `SuperStore_Sales_Dataset.csv`        | Source dataset used in Power BI         |
-| `README.md`                           | Project overview and documentation      |            
+| **File Name**                          | **Description**                          |           
+|--------------------------------------  |----------------------------------------- |
+|  `Dashboard Preview.png`               | Snapshot of the final dashboard          |
+|  `Dashboard Screenshot.png`            | In-depth view of dashboard sections      |
+|  `Pizza_sales.xlsx`                    | Power BI report file                     |
+|  `Dataset.csv                          | Source dataset                           |
+|  `Pizza Place Sales Analysis.zip`      | Source Image dataset                     |
+|  `README.md`                           | Project overview and documentation       |            
 
 ---
 
